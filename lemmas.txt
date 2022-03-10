@@ -1,0 +1,1943 @@
+abandon: abandoned 
+abattoir: abattoir 
+abolitionists: abolitionists 
+absurd: absurd 
+abuse: abuse 
+abuser: abuser 
+aby: abyss 
+accept: accept 
+ace: aces 
+ache: aching 
+acknowledge: acknowledge 
+acoustic: acoustic 
+across: across 
+act: act acting 
+action: action 
+actuality: actuality 
+adhesive: adhesive 
+adjust: adjust 
+administer: administer 
+advice: advice 
+affair: affair 
+afraid: afraid 
+aftertaste: aftertaste 
+age: age ages 
+aggression: aggression 
+agony: agony 
+ahead: ahead 
+aim: aim aimed 
+air: air 
+airborne: airborne 
+album: album 
+alissa: alissa 
+alive: alive 
+alone: alone 
+already: already 
+altar: altar 
+altars: altars 
+alter: alter 
+alteration: alteration 
+always: always 
+amnesia: amnesia 
+among: among 
+amot: amot 
+amott: amott 
+amp: amp 
+amuse: amused 
+anarchy: anarchy 
+ancient: ancient 
+angel: angel 
+angela: angela 
+angelclaw: angelclaw 
+angelo/christopher: angelo/christopher 
+angels: angels 
+anger: anger 
+angst: angst 
+anguish: anguish 
+animosity: animosity 
+annihilation: annihilation 
+anoher: anoher 
+anonymous: anonymous 
+another: another 
+answer: answer answers 
+anthem: anthem 
+anthems: anthems 
+anti-venom: anti-venom 
+antidote: antidote 
+anxiety: anxiety 
+anymore: anymore 
+anyone: anyone 
+anything: anything 
+anyway: anyway 
+apart: apart 
+apocalypse: apocalypse 
+apocrypha: apocrypha 
+appear: appear appears 
+apply: apply 
+arch: arch 
+archaic: archaic 
+archangels: archangels 
+arena: arena 
+arise: arise 
+arm: arm arms 
+armageddon: armageddon 
+around: around 
+arrive: arrive arrives 
+arrows: arrows 
+art: art 
+artificial: artificial 
+ascend: ascending 
+ash: ashes 
+ask: ask asking 
+astray: astray 
+atoms: atoms 
+atrocities: atrocities 
+attack: attack 
+attention: attention 
+authority: authority 
+available: available 
+avalanche: avalanche 
+avoid: avoid avoiding 
+await: awaiting awaits 
+awake: awake 
+away: away 
+axe: axe 
+back: back 
+backwards: backwards 
+bad: bad 
+bag: bag 
+bandits: bandits 
+bar: barred 
+bask: bask 
+bathe: bathe 
+battalions: battalions 
+battle: battle 
+battlefield: battlefield 
+battlefields: battlefields 
+bear: bear bearing bears born 
+beast: beast 
+beat: beat beaten beating 
+beautiful: beautiful 
+beauty: beauty 
+become: became become becomes 
+bed: bed 
+beggar: beggar 
+beg: begging 
+begin: begin beginning begins begun 
+behaviour: behaviour 
+behind: behind 
+behold: behold 
+belief: belief 
+beliefs: beliefs 
+believe: believe believed believes believing 
+believer: believer 
+believers: believers 
+bend: bending 
+beneath: beneath 
+beo: beo 
+berserk-spreading: berserk-spreading 
+best: best 
+betrayal: betrayal 
+betray: betrayed 
+better: better 
+beware: beware 
+beyond: beyond 
+bible: bible 
+big: big 
+binary: binary 
+birth: birth 
+bitch: bitch 
+bitter: bitter 
+bitter-sweet: bitter-sweet 
+black: black 
+blacken: blacken blackened 
+blade: blade 
+blame: blame 
+blank: blank 
+bleakness: bleakness 
+bleed: bleed bleeding bleeds 
+bless: blessed 
+blow: blew blow blowing blows 
+blind: blind blinded 
+blindfold: blindfolds 
+blindside: blindsides 
+bliss: bliss 
+block: blocks 
+blood: blood 
+bloodstained: bloodstained 
+bloodsucker: bloodsucker 
+bloody: bloody 
+body: bodies body 
+boil: boiling 
+bombers: bombers 
+bomb: bombs 
+bond: bonded 
+bone: bone bones 
+bonus: bonus 
+book: books 
+boredom: boredom 
+bore: boring 
+borrow: borrowed 
+bough: bough 
+buy: bought 
+bind: bound 
+boundless: boundless 
+bow: bow 
+brain: brain 
+brave: brave 
+bray: brayed 
+break: break breaking breaks broken 
+breath: breath 
+breathe: breathe breathes breathing 
+breed: breed breeding 
+brew: brewed 
+bride: bride 
+bridge: bridge bridges 
+bright: bright 
+bring: bring brought 
+bringer: bringer 
+broadcast: broadcast 
+brother: brother 
+brothers: brothers 
+brotherâ: brotherâ 
+brutal: brutal 
+build: build building built 
+bullet: bullet 
+burden: burden 
+burial: burial 
+bury: buried bury 
+burn: burn burning burns burnt 
+burst: burst 
+cage: cage 
+call: call calls 
+come: came come comes coming 
+candle: candle 
+cannon: cannon 
+cannot: cannot 
+capsule: capsule 
+carcass: carcass 
+care: care 
+carefully: carefully 
+carnage: carnage 
+carnal: carnal 
+carnivorous: carnivorous 
+carry: carries carry carrying 
+carve: carve 
+cast: cast casting 
+castly: castly 
+catacombs: catacombs 
+catch: catch 
+cause: cause 
+caustic: caustic 
+centuries: centuries 
+century: century 
+ceremony: ceremony 
+certain: certain 
+chain: chain chains 
+chalice: chalice 
+chamber: chamber 
+chance: chance 
+change: change changes 
+chaos: chaos 
+charade: charade 
+chariot: chariots 
+chase: chase 
+child: child 
+children: children 
+chistopher: chistopher 
+choice: choice 
+choices: choices 
+choke: choke choking 
+choose: choose chose chosen 
+chord: chords 
+chorus: chorus 
+christopher: christopher 
+chromatic: chromatic 
+circle: circle circles circling 
+circus: circus 
+city: city 
+claustrophobic: claustrophobic 
+clean: clean 
+cleanse: cleanse 
+clear: clear 
+clearer: clearer 
+climb: climbing 
+cloak: cloak 
+clock: clock 
+close: close closing 
+closely: closely 
+closer: closer 
+clothe: clothes 
+clouds-stand: clouds-stand 
+clown: clown 
+coarse: coarse 
+cockpit: cockpit 
+code: code 
+cognition: cognition 
+cold: cold 
+colder: colder 
+coldness: coldness 
+color: color 
+comfort: comfort 
+comin: comin 
+comminute: comminuted 
+commit: commit 
+common: common 
+company: company 
+compassion: compassion 
+complete: complete 
+complex: complex 
+conceal: conceal 
+concrete: concrete 
+condition: conditioning 
+confess: confess 
+confession: confession 
+confine: confined 
+conform: conform 
+confront: confronting 
+confuse: confused 
+confusion: confusion 
+connection: connection 
+conquer: conquer 
+conscience: conscience 
+constant: constant 
+constrict: constricting 
+consume: consume consumed 
+contamination: contamination 
+contemplate: contemplating 
+control: control controlling 
+conviction: conviction 
+cordle: cordle 
+cordle/daniel: cordle/daniel 
+corner: corner 
+corporal: corporal 
+corpse: corpse 
+corridors: corridors 
+corrode: corrodes 
+corrupt: corrupt corrupts 
+corruption: corruption 
+cosmic: cosmic 
+cost: cost 
+could: could 
+countdown: countdown 
+count: counting 
+countless: countless 
+course: course 
+cover: cover covered 
+cradle: cradle 
+crash: crash crashing 
+crave: crave 
+crawl: crawl crawled crawling 
+create: create created creating 
+creation: creation 
+creature: creature 
+creek: creek 
+creep: creep 
+cry: cries cry crying 
+crime: crime 
+crimes: crimes 
+criminal: criminal 
+cripple: crippling 
+criticize: criticize 
+cross: cross crossed crosses 
+crowd: crowd crowded 
+crown: crown 
+cruelty: cruelty 
+cruisin: cruisin 
+crumble: crumbles 
+crush: crush crushing 
+crust: crust 
+cull: culled 
+culprits: culprits 
+cult: cult 
+cup: cup 
+cure: cure 
+curse: curse cursed 
+cut: cut cuts cutting 
+cycle: cycles 
+cynicism: cynicism 
+damn: damn damned 
+damnation: damnation 
+damnations: damnations 
+dance: dance dancing 
+danger: danger 
+dangerous: dangerous 
+daniel: daniel 
+dare: dares 
+dark: dark 
+darken: darkened 
+darkest: darkest 
+darkness: darkness 
+dawn: dawn 
+day: day 
+days: days 
+dead: dead 
+dead-ride: dead-ride 
+deadly: deadly 
+death: death 
+decay: decay decaying 
+deceit: deceit 
+deceive: deceived 
+deceiver: deceiver 
+deception: deception 
+declare: declare 
+decrepit: decrepit 
+deep: deep 
+deeper: deeper 
+defeat: defeat defeated 
+defense: defense 
+define: define 
+defy: defy 
+defyâ¦: defyâ¦ 
+degradation: degradation 
+degree: degree 
+dehumanization: dehumanization 
+delusions: delusions 
+demand: demands 
+demon: demon 
+demoniality: demoniality 
+demonic: demonic 
+demonize: demonize 
+demons: demons 
+dense: dense 
+deny: deny 
+depart: depart 
+deprave: depraved 
+depression: depression 
+deprive: deprived 
+depths: depths 
+derogate: derogate 
+descant: descanting 
+desecrate: desecrated 
+deserve: deserve deserved 
+desinently: desinently 
+desire: desire 
+desolation: desolation 
+despair: despair 
+desperate: desperate 
+desperately: desperately 
+desperation: desperation 
+despicable: despicable 
+despise: despise 
+despoil: despoiled 
+dessert: dessert 
+desserts: desserts 
+destine: destined 
+destiny: destiny 
+destroy: destroy destroyed 
+destroyer: destroyer 
+destruction: destruction 
+determine: determined 
+dethrone: dethroned 
+devastation: devastation 
+devil: devil devils 
+devour: devouring 
+diabolus: diabolus 
+dictate: dictate dictates 
+die: die died dies dying 
+dieâ¦: dieâ¦ 
+different: different 
+diffusion: diffusion 
+dig: dig 
+dignity: dignity 
+dilute: diluted 
+dimension: dimension 
+direction: direction 
+dirt: dirt 
+dirty: dirty 
+disappear: disappear 
+disbelievers: disbelievers 
+disease: disease 
+disgust: disgusts 
+disillusion: disillusion disillusioned 
+disinfect: disinfected 
+disorder: disorder 
+dissolve: dissolved 
+distance: distance 
+distant: distant 
+distil: distilled 
+distort: distorting 
+distress: distress 
+diva: diva 
+divine: divine 
+dive: diving 
+dna: dna 
+doesnâ: doesnâ 
+dogma: dogma 
+dogmatic: dogmatic 
+domains: domains 
+domination: domination 
+dominus: dominus 
+do: done 
+donâ: donâ 
+doom: doomed 
+doomsday: doomsday 
+door: door 
+doubt: doubt doubts 
+downward: downward 
+dozen: dozen 
+drag: dragging 
+drain: drained 
+draw: draw drawing drawn draws 
+dream: dream dreaming dreams 
+dreamlike: dreamlike 
+dress: dressed 
+drink: drink drinking 
+drive: drive drives 
+drown: drown drowning 
+dry: dry 
+dust: dust 
+dwell: dwell dwelling dwells 
+dwindle: dwindles 
+eager: eager 
+eagle: eagle 
+ears: ears 
+earth: earth 
+easy: easy 
+eat: eat eating 
+ebb: ebb 
+ebony: ebony 
+echo: echo echoes 
+eclipse: eclipse 
+ecstasy: ecstasy 
+eden: eden 
+effigy: effigy 
+ego: ego 
+else: else 
+elysian: elysian 
+embody: embodied 
+embrace: embrace 
+embryo: embryo 
+emerge: emerges 
+emotions: emotions 
+empathy: empathy 
+emperor: emperor 
+empire: empire 
+empires: empires 
+emptiness: emptiness 
+empty: empty 
+end: end ending ends 
+endless: endless 
+endlessly: endlessly 
+enemies: enemies 
+enemy: enemy 
+energy: energy 
+engines: engines 
+england: england 
+english: english 
+engulf: engulfed engulfs 
+enjoy: enjoy 
+enlighten: enlighten 
+enough: enough 
+enrage: enrage 
+enslave: enslave 
+enter: enter 
+entity: entity 
+entrails: entrails 
+equality: equality 
+era: era 
+erase: erase erased 
+erlandsson: erlandsson 
+erlandsson/michael: erlandsson/michael 
+erotic: erotic 
+escape: escape 
+esprit: esprit 
+essence: essence 
+est: est 
+eternal: eternal 
+ether: ether 
+ethics: ethics 
+euphoria: euphoria 
+eureka: eureka 
+europe: europe 
+eve: eve 
+even: even 
+evenge-not: evenge-not 
+ever: ever 
+evermore: evermore 
+every: every 
+everyone: everyone 
+everything: everything 
+evil: evil 
+evolution: evolution 
+except: except 
+excite: excited 
+excruciate: excruciating 
+excuse: excuse 
+executioners: executioners 
+exist: exist 
+existence: existence 
+exit: exit 
+expect: expect 
+expectation: expectation 
+expense: expense 
+explode: explodes 
+expose: expose exposed 
+exposure: exposure 
+exsanguine: exsanguine 
+exsiccate: exsiccated 
+extinction: extinction 
+extract: extract 
+extravaganza: extravaganza 
+extravated: extravated 
+eye: eye eyes 
+fabric: fabric 
+facade: facade 
+face: face faces facing 
+fact: fact 
+fade: fade fading 
+fail: failed fails 
+failure: failure 
+faith: faith 
+fake: faking 
+fall: fall falling falls 
+false: false 
+fame: fame 
+fangs: fangs 
+fantasy: fantasy 
+far: far 
+farce: farce 
+fascination: fascination 
+fashion: fashion 
+fast: fast 
+faster: faster 
+fatal: fatal 
+fate: fate 
+fat: fates fats 
+father: father fathers 
+fatherland: fatherland 
+fear: fear 
+fearless: fearless 
+feast: feast 
+feed: fed feeding 
+feeble: feeble 
+fee: feed 
+feel: feel feeling feelings 
+feet: feet 
+felt: felt 
+fence: fence 
+fertile: fertile 
+fever: fever 
+field: field fields 
+fight: fight fighting 
+fill: fill fills 
+filthy: filthy 
+final: final 
+finally: finally 
+find: find finding found 
+fingernails: fingernails 
+finger: fingers 
+fire: fire firing 
+first: first 
+fistful: fistful 
+fists: fists 
+fittest: fittest 
+five: five 
+fix: fix 
+flag: flag flags 
+flak: flak 
+flame: flame flames 
+flammam: flammam 
+flap: flapping 
+flashbacks: flashbacks 
+flash: flashing 
+fleet: fleeting 
+flesh: flesh 
+fly: flies fly flying 
+float: floating floats 
+floor: floor 
+flow: flow flows 
+foam: foaming 
+fodder: fodder 
+foder: foder 
+foe: foe 
+follow: follow followed 
+fool: fool fooling fools 
+forbid: forbidden 
+force-feed: force-feeding 
+force: forced 
+forever: forever 
+forevermore: forevermore 
+forget: forget forgot forgotten 
+forgive: forgive forgiven 
+forlorn: forlorn 
+form: form 
+forth: forth 
+forward: forward 
+foulness: foulness 
+fountain: fountain 
+fountains: fountains 
+four: four 
+fragile: fragile 
+free: free freed 
+freedom: freedom 
+freedomâ: freedomâ 
+freewill: freewill 
+freeze: freeze frozen 
+friend: friend 
+friendly: friendly 
+frivolous: frivolous 
+fruit: fruit fruits 
+frustration: frustration 
+fry: fry 
+fuck: fucking 
+fuel: fueled 
+full: full 
+fume: fumes 
+fumo: fumo 
+funeral: funeral 
+fur: fur 
+fury: fury 
+future: future 
+futureâ: futureâ 
+gain: gain 
+galleries: galleries 
+gallows: gallows 
+game: game games 
+garden: gardens 
+gate: gate gates 
+gather: gathering 
+give: gave give gives giving 
+gavel: gavel 
+gaze: gazes 
+gel: gel 
+gelatine: gelatine 
+gender: gender 
+generation: generation 
+genocide: genocide 
+get: get gets getting got 
+ghost: ghost 
+girl: girl 
+glass: glass 
+glaze: glazed 
+glide: glides 
+glitter: glittering 
+gloom: gloom 
+glorious: glorious 
+glory: glory 
+glue: glue 
+glutenate: glutenate 
+glutton: glutton 
+goal: goal 
+god: god 
+godless: godless 
+gods: gods 
+go: goes going gone went 
+golden: golden 
+gonna: gonna 
+good: good 
+goodbye: goodbye 
+gossow: gossow 
+gossow/michael: gossow/michael 
+gotta: gotta 
+gown: gown 
+grab: grab 
+grace: grace 
+grave: grave 
+graveyard: graveyard 
+great: great 
+greater: greater 
+greed: greed 
+greet: greets 
+grey: grey 
+grief: grief 
+grip: grip gripping 
+griskin: griskin 
+groats: groats 
+grind: ground 
+grow: grow growing 
+guardians: guardians 
+guard: guards 
+guide: guide 
+guilt: guilt 
+guitar: guitar 
+guitat: guitat 
+gum: gum 
+gun: gun guns 
+hail: hail 
+halfway: halfway 
+halls: halls 
+halve: halves 
+hand: hand hands 
+hangman: hangman 
+happen: happen happened 
+harbinger: harbinger 
+hard: hard 
+harder: harder 
+harm: harm 
+harmony: harmony 
+harris: harris 
+hate: hate 
+hatred: hatred 
+haunt: haunt haunting 
+head: head heading heads 
+heal: healing heals 
+hear: hear heard 
+heart: heart 
+heartaches: heartaches 
+heartbeat: heartbeat 
+hearts: hearts 
+heat: heat 
+heaven: heaven 
+heavens: heavens 
+heavy: heavy 
+heed: heed 
+heirs: heirs 
+hold: held hold holds 
+hell: hell 
+hellish: hellish 
+help: help 
+helpless: helpless 
+herd: herd 
+hereby: hereby 
+heroes: heroes 
+heros: heros 
+hesitate: hesitate 
+hide: hide hiding 
+hideous: hideous 
+high: high 
+higher: higher 
+history: history 
+hit: hits 
+hole: hole holes 
+hollow: hollow 
+holocaust: holocaust 
+holy: holy 
+home: home 
+honesty: honesty 
+honour: honour 
+hook: hooked 
+hope: hope 
+hopeless: hopeless 
+hop: hopes hoping 
+horizon: horizon 
+horrific: horrific 
+horrify: horrifying 
+horror: horror 
+hostile: hostile 
+hour: hour 
+hours: hours 
+human: human 
+humanity: humanity 
+humanum: humanum 
+hunger: hunger 
+hungry: hungry 
+hunt: hunt hunting 
+hunter: hunter 
+hurt: hurt hurting 
+hurtful: hurtful 
+hybrids: hybrids 
+hydra: hydra 
+hypnotize: hypnotize 
+hypocrisy: hypocrisy 
+ice: ice 
+ideals: ideals 
+ideas: ideas 
+ides: ides 
+idolatress: idolatress 
+ignite: igniting 
+ignorance: ignorance 
+ignoscere: ignoscere 
+ill: ill 
+illfated: illfated 
+illusion: illusion 
+illusions: illusions 
+image: image images 
+immaculate: immaculate 
+immortal: immortal 
+immortality: immortality 
+immortals: immortals 
+implosion: implosion 
+imprison: imprisoned 
+incarcerate: incarcerated 
+incarnate: incarnate incarnated 
+incense: incense 
+inch: inch 
+increase: increases 
+indignation: indignation 
+infamous: infamous 
+infantile: infantile 
+infect: infected 
+inferno: inferno 
+infestation: infestation 
+infest: infested 
+infiltrate: infiltrated 
+infinite: infinite 
+inflate: inflated 
+ingest: ingesting 
+inherit: inherit 
+inject: injected 
+ink: ink inked 
+inner: inner 
+innocence: innocence 
+innocent: innocent 
+insalubrious: insalubrious 
+insane: insane 
+insanity: insanity 
+insects: insects 
+inside: inside 
+insides: insides 
+insincere: insincere 
+instant: instant 
+instantly: instantly 
+instinct: instinct 
+instrumental: instrumental 
+instrumental][music: instrumental][music 
+intenacious: intenacious 
+intense: intense 
+intensify: intensify 
+interest: interest 
+intermezzo: intermezzo 
+internal: internal 
+intersect: intersecting 
+intricate: intricate 
+intro: intro 
+invisible: invisible 
+iron: iron 
+isolation: isolation 
+jacobs: jacobs 
+japan: japan 
+jesus: jesus 
+jettison: jettison 
+job: job 
+johan: johan 
+join: join joined 
+joke: jokes 
+journey: journey 
+joy: joy 
+judas: judas 
+judge: judge judging 
+jump: jump 
+jungle: jungle 
+justice: justice 
+justify: justify 
+karma: karma 
+keep: keep keeping kept 
+keeper: keeper 
+key: key 
+khaos: khaos 
+kill: kill killed killing kills 
+kind: kind 
+kingdom: kingdom 
+kings: kings 
+kiss: kiss 
+knees: knees 
+know: knew know knowing known knows 
+knife: knife 
+knowledge: knowledge 
+label: labels 
+labour: labour 
+lacerate: lacerate 
+laceration: laceration 
+lair: lair 
+lake: lake 
+lament: lament laments 
+land: land 
+lap: lap 
+last: last 
+late: late 
+laugh: laugh laughing 
+laughter: laughter 
+law: law 
+lawgiver: lawgiver 
+laws: laws 
+lay: lay 
+layer: layered 
+lead: lead leading leads led 
+leader: leader 
+leaders: leaders 
+learn: learn learned 
+learningâ¦: learningâ¦ 
+leash: leash 
+leave: leave leaves leaving left 
+legacy: legacy 
+legend: legend 
+legion: legion 
+legions: legions 
+length: length 
+less: less 
+lesson: lesson 
+let: let letting 
+liar: liar 
+liberation: liberation 
+libero: libero 
+liberty: liberty 
+libertã©: libertã© 
+lick: licking 
+lie: lie lies lying 
+life: life 
+lifeline: lifeline 
+lifetime: lifetime 
+light: light lights 
+light-year: light-year 
+liiva: liiva 
+like: like 
+line: line lines 
+linger: linger 
+lips: lips 
+liquid: liquid 
+lissom: lissom 
+listen: listen 
+little: little 
+live: live lived lives living 
+load: loaded 
+lobotomize: lobotomize 
+lock: locked 
+logic: logic 
+lonely: lonely 
+lonesome: lonesome 
+long: long 
+longer: longer 
+look: look looking 
+loose: loose 
+lose: lose losing lost 
+loser: loser 
+loss: loss 
+loud: loud 
+love: love loved 
+luck: luck 
+lunacy: lunacy 
+lure: lured 
+lurk: lurking 
+luscious: luscious 
+lust: lust 
+lye: lye 
+lyric: lyrics 
+macabre: macabre 
+machine: machine 
+machtskampf: machtskampf 
+make: made make makes making 
+madness: madness 
+maiden: maiden 
+maim: maimed 
+mainstream: mainstream 
+maker: maker 
+malicious: malicious 
+malt: malting 
+man: man mans 
+manipulation: manipulation 
+mankind: mankind 
+mankindâ: mankindâ 
+manowar: manowar 
+many: many 
+march: march marches marching 
+mar: mares 
+marionettes: marionettes 
+mark: mark 
+marrow: marrow 
+marty: marty 
+martyr: martyr 
+masquerade: masquerade 
+mass: mass 
+master: master masters 
+match: matching 
+matter: matter 
+maybe: maybe 
+maze: maze 
+mean: mean meant 
+mechanic: mechanic 
+media: media 
+medicine: medicine 
+mediocrity: mediocrity 
+medusa: medusa 
+meek: meek 
+meet: meet met 
+megadeth: megadeth 
+melodies: melodies 
+melody: melody 
+memories: memories 
+memory: memory 
+men: men 
+mental: mental 
+mephisto: mephisto 
+mercy: mercy 
+merely: merely 
+messiah: messiah 
+metal: metal 
+michael: michael 
+might: might 
+mighty: mighty 
+mike: mike 
+miles: miles 
+milky: milky 
+millenary: millenary 
+millions: millions 
+mind: mind minds 
+mindâ: mindâ 
+mine: mine 
+minor: minor 
+miracle: miracle 
+mirror: mirror 
+misconstrue: misconstrue 
+misery: misery 
+mislead: misled 
+misplace: misplaced 
+miss: miss 
+missiles: missiles 
+mistake: mistakes 
+mistress: mistress 
+mistrust: mistrust 
+misunderstand: misunderstood 
+mock: mocked 
+mockery: mockery 
+moment: moment 
+money: money 
+monster: monster 
+month: month 
+monuments: monuments 
+moon: moon 
+morality: morality 
+morbid: morbid 
+morning: morning 
+mortal: mortal 
+mortals: mortals 
+moth: moth 
+motion: motion 
+mourn: mourned 
+mouth: mouth 
+move: move 
+much: much 
+mucilage: mucilage 
+mundane: mundane 
+murder: murder 
+murky: murky 
+music: music 
+must: must 
+mysteries: mysteries 
+mystical: mystical 
+mythomaniac: mythomaniac 
+nail: nails 
+name: name names 
+nameless: nameless 
+nation: nation 
+nations: nations 
+natural: natural 
+nature: nature 
+navigate: navigate 
+near: near 
+neck: neck 
+necropolis: necropolis 
+necroticism: necroticism 
+need: need needs 
+neglect: neglected neglecting 
+nemesis: nemesis 
+never: never 
+new: new 
+newborn: newborn 
+next: next 
+nick: nick 
+night: night 
+nights: nights 
+nihil: nihil 
+nobody: nobody 
+nocturnal: nocturnal 
+nocuosly: nocuosly 
+noli: noli 
+none: none 
+nordstrom: nordstrom 
+norm: norm 
+nothing: nothing 
+nothingness: nothingness 
+nowhere: nowhere 
+noxious: noxious 
+numb: numb 
+number: numbers 
+oath: oath 
+obey: obey 
+obliterate: obliterate 
+oblivion: oblivion 
+oblivisci: oblivisci 
+obsolete: obsolete 
+obstacles: obstacles 
+obvious: obvious 
+odin: odin 
+odire: odire 
+oil: oils 
+old: old 
+oldfield]shadow: oldfield]shadow 
+once--sacred: once--sacred 
+one: one 
+ones: ones 
+open: open opening 
+operant: operant 
+opponent: opponent 
+oppress: oppressed 
+orchestrate: orchestrated 
+orgy: orgy 
+original: original 
+others: others 
+outro: outro 
+outside: outside 
+overrate: overrated 
+overture: overture 
+pace: paces 
+page: page pages 
+pay: paid pay paying 
+pain: pain 
+painful: painful 
+paint: paint 
+panic: panic 
+paper: paper 
+paradise: paradise 
+paradox: paradox 
+paralell: paralell 
+paralyse: paralysed 
+paralyze: paralyzing 
+paranoia: paranoia 
+parasites: parasites 
+part: part 
+pass: pass passed passing 
+passion: passion 
+passionate: passionate 
+past: past 
+path: path 
+pathetic: pathetic 
+paths: paths 
+patience: patience 
+pawn: pawn 
+peace: peace 
+peaceful: peaceful 
+pebbles: pebbles 
+pellucid: pellucid 
+pen: pen 
+people: peoples 
+perfect: perfect 
+perfection: perfection 
+perform: performing 
+perish: perish 
+permanently: permanently 
+perversion: perversion 
+pervert: perverted 
+phase: phases 
+philistine: philistine 
+phoenix: phoenix 
+pick: pick picked picking picks 
+pied: pied 
+pilgrim: pilgrim 
+pills: pills 
+piper: piper 
+pit: pit 
+place: place places 
+plain: plain 
+plan: plan 
+planet: planet 
+plant: planted 
+plastic: plastic 
+play: play playing 
+please: please 
+pleasure: pleasure 
+pleasures: pleasures 
+plot: plotting 
+pointless: pointless 
+poison: poison poisoned 
+pool: pool 
+poorest: poorest 
+possess: possessed possesses 
+post-mortem: post-mortem 
+pound: pounding 
+pour: pours 
+power: power powers 
+power-die: power-die 
+power-with: power-with 
+pray: pray praying 
+prayer: prayer 
+prayers: prayers 
+pre-chorus: pre-chorus 
+preacers: preacers 
+preachers: preachers 
+precious: precious 
+prelude: prelude 
+premeditate: premeditated 
+preordain: preordained 
+prepare: prepare prepared 
+presence: presence 
+present: present 
+preserve: preserve 
+press: press 
+pressure: pressure 
+pretense: pretense 
+pretty: pretty 
+prevail: prevails 
+prey: prey 
+price: price 
+pride: pride 
+priest: priest 
+primates: primates 
+prison: prison 
+prisoner: prisoner 
+private: private 
+process: process processed 
+profanity: profanity 
+profit: profit 
+progress: progress 
+promise: promise promised promises 
+propaganda: propaganda 
+prophets: prophets 
+protocols: protocols 
+proud: proud 
+prove: prove 
+provoke: provoking 
+psycho-door: psycho-door 
+pull: pull pulling 
+pulse: pulse 
+punish: punishing 
+punishment: punishment 
+puppet: puppet 
+puppets: puppets 
+pure: pure 
+purge: purge 
+pursuer: pursuer 
+push: push 
+put: put 
+puzzle: puzzle 
+queen: queen 
+queensryche: queensryche 
+quest: quest 
+question: question questioned 
+quick: quick 
+quietus: quietus 
+quo: quo 
+race: race 
+rage: rage 
+raid: raid 
+railroad: railroad 
+rain: rain 
+rainbow: rainbow 
+raise: raise raised raises 
+run: ran run running runs 
+rat: rats 
+rattle: rattling 
+ravage: ravage ravaged 
+raven: raven ravens 
+ravenous: ravenous 
+ray: rays 
+raze: razed 
+reach: reach reaching 
+read: read 
+ready: ready 
+real: real 
+reality: reality 
+realize: realize 
+really: really 
+reap: reap 
+reason: reason 
+reave: reaving 
+rebel: rebel rebels 
+rebellion: rebellion 
+reborn: reborn 
+reckon: reckoning 
+recognize: recognize 
+recover: recover 
+red: red 
+reflection: reflection 
+refugees: refugees 
+refuse: refuse 
+regret: regret regrets 
+reign: reign reigns 
+reincarnation: reincarnation 
+reject: reject rejected rejecting 
+relax: relax 
+relentless: relentless 
+relic: relic 
+relief: relief 
+rely: rely 
+remain: remain remains 
+remember: remember remembered remembering 
+remorseless: remorseless 
+remove: remove 
+render: rendered 
+repeat: repeat 
+repent: repent 
+replace: replaced 
+represent: represent 
+reproduce: reproduce 
+repulse: repulse 
+requiem: requiem 
+residue: residue 
+resignation: resignation 
+resist: resist 
+resistance: resistance 
+respect: respect 
+rest: rest 
+restless: restless 
+resurrection: resurrection 
+retinas: retinas 
+retribution: retribution 
+retrospectives: retrospectives 
+return: return returned returns 
+reveal: revealing 
+revel: revel 
+revenge: revenge 
+revolution: revolution 
+rewrite: rewriting 
+rhetoric: rhetoric 
+rheumic: rheumic 
+ride: ride 
+ridicule: ridiculed 
+rid: riding 
+right: right rights 
+rip: rip ripped ripping 
+rise: rise rises rising 
+ritual: ritual 
+river: river 
+road: road 
+roam: roaming 
+robot: robot 
+roll: roll rolling 
+romance: romance 
+room: room 
+root: roots 
+rosad: rosad 
+rot: rot rotting 
+rotation: rotation 
+rotten: rotten 
+round: round 
+row: row 
+rug: rug 
+ruin: ruined 
+rule: ruled rules 
+ruler: ruler 
+rumble: rumble 
+runneth: runneth 
+runway: runway 
+rust: rust 
+sacred: sacred 
+sacrifice: sacrifice sacrificed 
+sad: sad 
+sadness: sadness 
+safe: safe 
+safety: safety 
+sail: sail 
+saint: saint saints 
+salt: salt 
+salvation: salvation 
+sanat: sanat 
+sanctuary: sanctuary 
+sand: sand sands 
+sanity: sanity 
+satan: satan 
+satanica: satanica 
+saturnine: saturnine 
+savage: savage 
+save: save saved 
+savour: savour 
+saw: saw 
+say: say 
+scar: scar scared scaring scarred scars 
+scatter: scattered 
+scene: scene 
+science: science 
+scientific: scientific 
+scorpions: scorpions 
+scramble: scramble scrambling 
+scrape: scrape 
+scratch: scratch 
+scream: scream screaming screams 
+screen: screen 
+scriptures: scriptures 
+scroll: scrolls 
+scrutinize: scrutinized 
+sculptor: sculptor 
+scum: scum 
+sea: sea 
+seal: sealed 
+search: search searching 
+seas: seas 
+second: second 
+secret: secret 
+secrets: secrets 
+sedate: sedated 
+seducer: seducer 
+see: see seen 
+seed: seed seeds 
+seek: seek seeking 
+seem: seem 
+seemingly: seemingly 
+selection: selection 
+self: self 
+self-destruction: self-destruction 
+sell: selling sold 
+send: sending sent 
+sense: sense senses 
+senseless: senseless 
+sentence: sentenced sentences 
+sere: sere 
+serenade: serenade 
+serenity: serenity 
+serpent: serpent 
+servant: servant 
+servants: servants 
+serve: served 
+set: set sets 
+settle: settled 
+sever: sever severed 
+severe: severe 
+sexual: sexual 
+shadow: shadow shadows 
+shadowbeast: shadowbeast 
+shake: shake shaking 
+shall: shall 
+shallow: shallow 
+shamble: shambles 
+shambolic: shambolic 
+shame: shame 
+shape: shape 
+share: share shared 
+shark: sharks 
+sharlee: sharlee 
+sharp: sharp 
+sharpen: sharpened 
+shatter: shatters 
+sheep: sheep 
+sheer: sheer 
+shell: shell 
+shelter: shelter 
+shield: shield 
+shift: shift 
+shin: shin shines shining 
+shine: shine 
+ship: ship 
+short: shorted 
+shortness: shortness 
+shoot: shot 
+shoulder: shoulders 
+shovel: shovels 
+show: show 
+shrine: shrine 
+shun: shun 
+shut: shut 
+sick: sick 
+sicken: sickening 
+side: side 
+sidewalks: sidewalks 
+sight: sight 
+sign: sign 
+silence: silence silenced 
+silent: silent 
+silverwing: silverwing 
+simple: simple 
+sin: sin sinned sins 
+since: since 
+single: single 
+sinister: sinister 
+sink: sink sinking sunken 
+sinner: sinner 
+sinners: sinners 
+sip: sip 
+siren: siren 
+sisyphus: sisyphus 
+sit: sit 
+skeletal: skeletal 
+skeleton: skeleton 
+skeletons: skeletons 
+sky: skies sky 
+skin: skin 
+slay: slain slay slaying 
+slam: slam 
+slap: slap 
+slaughter: slaughter slaughtered 
+slaughterous: slaughterous 
+slave: slave slaves 
+slayer: slayer 
+sleep: sleep sleeps 
+sleepless: sleepless 
+slide: slide 
+slime: slime 
+slip: slip slipped slipping 
+slowly: slowly 
+smell: smell 
+smile: smile smiles 
+smoke: smoke 
+snort: snorting 
+snow: snow 
+snuff: snuff 
+soar: soaring 
+society: society 
+sodden: sodden 
+softly: softly 
+soil: soil soiled 
+solemn: solemn 
+soliloquy: soliloquy 
+solitude: solitude 
+solo: solo solos 
+solve: solved 
+solvent: solvent 
+someone: someone 
+something: something 
+sometimeâ¦: sometimeâ¦ 
+somewhere: somewhere 
+song: song 
+soon: soon 
+sores: sores 
+sorrow: sorrow 
+soul: soul 
+souls: souls 
+sound: sound 
+sour: sour 
+sow: sowed sowing sown 
+speak: speak speaks spoken 
+speed: speed 
+spell: spell 
+spend: spent 
+spew: spewing 
+spill: spill 
+spin: spin spinning 
+spiral: spiral spiralling 
+spirit: spirit spirits 
+spiritual: spiritual 
+spiritus: spiritus 
+spit: spit spitting 
+spitfires: spitfires 
+spoon: spoon 
+sport: sport 
+spread: spread spreading spreads 
+spring: springs 
+sputter: sputters 
+stab: stab 
+stage: stage 
+stag: stages 
+stain: stain stains 
+stake: stake 
+stand: stand standing stands stood 
+star: star stares staring stars 
+starbreaker: starbreaker 
+stare: stare 
+starglow: starglow 
+starlit: starlit 
+start: start starting starts 
+state: state 
+status: status 
+stay: stay stays 
+stealin: stealin 
+steel: steel 
+steel-for: steel-for 
+steer: steer 
+stellarum: stellarum 
+step: step 
+stereotype: stereotype 
+steve: steve 
+stiff: stiff 
+stiffing: stiffing 
+stigmata: stigmata 
+still: still 
+stillborn: stillborn 
+stimulation: stimulation 
+sting: stings 
+stink: stinking 
+steal: stolen 
+stone: stone stones 
+stop: stop stopped stops 
+store: store 
+storm: storm storms 
+stormy: stormy 
+story: story 
+straight: straight 
+strain: straining 
+strangers: strangers 
+stream: stream 
+street: street 
+streets: streets 
+strength: strength 
+strengths: strengths 
+stride: stride 
+strike: strike striking struck 
+string: strings 
+strip: strip stripped 
+strive: strive 
+strong: strong 
+stronger: stronger 
+struggle: struggle 
+study: study 
+stumble: stumbling 
+subconscience: subconscience 
+subservience: subservience 
+succumb: succumb 
+suck: suck 
+sudden: sudden 
+suddenly: suddenly 
+suffer: suffer suffered suffering 
+suffocate: suffocating 
+suicide: suicide 
+suit: suit 
+sun: sun 
+sunrise: sunrise 
+suppress: suppress 
+sure: sure 
+surface: surface 
+surrender: surrender 
+surround: surrounded surrounding surrounds 
+survival: survival 
+survive: survive 
+suspect: suspect 
+suspicious: suspicious 
+swallow: swallow swallowed 
+sway: swaying 
+swear: swear 
+sweat: sweat 
+sweet: sweet 
+sweep: swept 
+swim: swim 
+swirl: swirling 
+symbolical: symbolical 
+symphony: symphony 
+system: system 
+table: tables 
+taboo: taboo 
+take: take taken takes taking took 
+taker: taker 
+tales: tales 
+talk: talk 
+tall: tall 
+tangibility: tangibility 
+tangible: tangible 
+taste: taste tasted tastes 
+tear: tear tearing tears torn 
+teeth: teeth 
+tell: tell told 
+tempest: tempest 
+temple: temple 
+tempore: tempore 
+temptation: temptation 
+ten: ten 
+tender: tender 
+termination: termination 
+terror: terror 
+test: test 
+theme: theme 
+therapy: therapy 
+theres: theres 
+thin: thin 
+thing: thing 
+things: things 
+think: think thought 
+thirsty: thirsty 
+thorns: thorns 
+thou: thou 
+though: though 
+thoughtless: thoughtless 
+thoughts: thoughts 
+thousand: thousand 
+thousands: thousands 
+thrill: thrill 
+throat: throat 
+throats: throats 
+throne: throne 
+throughout: throughout 
+throw: thrown 
+tide: tides 
+til: til 
+till: till 
+time: time times 
+timeless: timeless 
+tin: tin 
+tire: tired 
+today: today 
+together: together 
+tolerate: tolerate 
+tomb: tomb 
+tombs: tombs 
+tomorrow: tomorrow 
+tomorrowâ: tomorrowâ 
+tongue: tongue tongues 
+tonight: tonight 
+tool: tool tools 
+tooth: tooth 
+torment: torment tormented 
+torture: torture tortured 
+touch: touch 
+toward: toward 
+tower: towering 
+town: town 
+toxic: toxic 
+trace: traces 
+track: track 
+track][originally: track][originally 
+tragedy: tragedy 
+tragic: tragic 
+trail: trail 
+trample: trample 
+tranquilize: tranquilized 
+transcend: transcend 
+transfusion: transfusion 
+transgress: transgress 
+transition: transition 
+translation: translation 
+transmigrate: transmigrate 
+transmigration: transmigration 
+transmutation: transmutation 
+transparent: transparent 
+trap: trapped 
+traumatic: traumatic 
+travel: traveled 
+traveller: traveller 
+traverse: traversing 
+treat: treat 
+tree: tree 
+trespassers: trespassers 
+trials: trials 
+trigger: trigger 
+triturated: triturated 
+triumphant: triumphant 
+trivial: trivial 
+truculent: truculent 
+true: true 
+trust: trust trusted 
+truth: truth 
+truths: truths 
+try: try trying 
+tunnel: tunnel 
+turmoil: turmoil 
+turn: turn turned turning turns 
+tuurn: tuurn 
+twentieth: twentieth 
+twist: twisted twisting 
+two: two 
+tyrant: tyrant 
+tyrants: tyrants 
+ugly: ugly 
+ultimate: ultimate 
+ultimately: ultimately 
+unable: unable 
+unborn: unborn 
+unbridle: unbridled 
+uncertainty: uncertainty 
+unchased: unchased 
+uncontrollable: uncontrollable 
+undead: undead 
+understand: understand 
+undertow: undertow 
+undying: undying 
+unfold: unfold unfolds 
+unfulfilled: unfulfilled 
+unheard: unheard 
+uniform: uniform 
+unique: unique 
+unite: unite united 
+universe: universe 
+unknown: unknown 
+unlearn: unlearned 
+unleash: unleash unleashed 
+unrecognizable: unrecognizable 
+unseen: unseen 
+untouched: untouched 
+unwavering: unwavering 
+upon: upon 
+use: use used 
+vacant: vacant 
+vain: vain 
+value: value valued 
+vapours: vapours 
+vault: vault 
+vein: veins 
+vengeance: vengeance 
+vengence: vengence 
+venomous: venomous 
+verge: verge 
+version: version 
+vicious: vicious 
+victims: victims 
+victor: victor 
+victorious: victorious 
+victory: victory 
+violate: violated 
+violation: violation 
+violent: violent 
+virgin: virgin 
+virtually: virtually 
+viscous: viscous 
+vision: vision 
+voice: voice voices 
+voiceless: voiceless 
+void: void 
+voluntarily: voluntarily 
+vortex: vortex 
+vox: vox 
+voyage: voyage 
+vulture: vulture 
+vultures: vultures 
+wag: wages 
+wait: wait waiting 
+wake: wake 
+walk: walk walking 
+wall: wall walls 
+want: want wanted 
+war: war warring wars 
+warm: warm 
+warn: warns 
+wash: wash washed 
+waste: waste wasted 
+watch: watch watching 
+water: water waters 
+wave: wave 
+way: way 
+ways: ways 
+weak: weak 
+weaken: weakened 
+weakest: weakest 
+weakness: weakness 
+weapons: weapons 
+wear: wearing 
+weave: weave weaving 
+web: web 
+week: week 
+weigh: weighing 
+weight: weight 
+welcome: welcome 
+well: well 
+wheel: wheel wheels 
+whisk: whisk 
+whisper: whisper whispering 
+white: white 
+white-gluz: white-gluz 
+whole: whole 
+wicked: wicked 
+wide: wide 
+willful: willful 
+wilt: wilt 
+win: win 
+wind: wind wound 
+windows: windows 
+wing: wings 
+wipe: wipe 
+wisdom: wisdom 
+wish: wish 
+wither: withered 
+within: within 
+without: without 
+witness: witness witnessed 
+wolf: wolf 
+wolves: wolves 
+womb: womb 
+women: women 
+wonâ: wonâ 
+word: word words 
+work: works 
+world: world 
+worlds: worlds 
+worldâ: worldâ 
+worse: worse 
+worship: worship 
+worst: worst 
+worth: worth 
+worthless: worthless 
+would: would 
+wound: wounds 
+wrap: wrap 
+writhe: writhe 
+write: written 
+wrong: wrong 
+year: year 
+yearn: yearning 
+years: years 
+yes: yes 
+yesterday: yesterday 
+yet: yet 
+yoru: yoru 
+young: young 
+younger: younger 
+youth: youth 
+youâ: youâ 
+zoo: zoo 
+:  
+¦alone: ¦alone 
+¿wers: ¿wers 
